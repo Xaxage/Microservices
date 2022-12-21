@@ -1,0 +1,3 @@
+# Project exclude paths
+/Customer/target/
+/Fraud/target/
